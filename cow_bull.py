@@ -1,5 +1,4 @@
 import random
-
 import random
 
 def bull_cow(num, ask):
@@ -28,3 +27,4 @@ ranDom=str(random.randint(1000,9999))
 print(ranDom)
 ask_number=str(input('enter a number between 1000 and 9999 as your guess'))
 print(bull_cow(ranDom, ask_number))
+print("test")
