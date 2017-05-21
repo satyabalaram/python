@@ -1,5 +1,4 @@
 import random
-
 import random
 
 def bull_cow(num, ask):
