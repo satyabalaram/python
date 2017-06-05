@@ -1,5 +1,8 @@
-str1 = "7777555511111111"
-str2 =  "3332222221111"
+#str1 = "7777555511111111"
+#str2 =  "3332222221111"
+str1 = "9"
+str2 =  "99"
+
 
 list1 = list(str1)
 list2 = list(str2)
@@ -33,6 +36,9 @@ for index in range(len1):
     if sum >=10:
         sum = sum % 10
     list3.append(sum)
+
+if carry:
+    list3.append(carry)
  
 #print list3
 list3 = list3 [ : : -1]
