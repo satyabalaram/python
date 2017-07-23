@@ -1,0 +1,1 @@
+print('curl -s https://766b27d681ca1ccb62925da62472358bdbdeadd9@github.qualcomm.com/raw/APTCAMAUT/CameraTestCases/master/SingleROI/API2/XML/B1_ZSL_srMAX_Cam2.xml -o C:/venkat/python/B1_ZSL_srMAX_Cam2.xml -v')
